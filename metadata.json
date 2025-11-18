@@ -1,0 +1,5 @@
+{
+  "name": "microfund.me",
+  "description": "A platform to donate the remaining small balances from prepaid gift cards, coffee cards, and more to charitable causes.",
+  "requestFramePermissions": []
+}
